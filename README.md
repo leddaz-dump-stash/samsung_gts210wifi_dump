@@ -1,0 +1,14 @@
+# gts210wifixx-user 7.0 NRD90M T810XXU2DRH1 release-keys
+- manufacturer: samsung
+- platform: exynos5
+- codename: gts210wifi
+- flavor: gts210wifixx-user
+- release: 7.0
+- id: NRD90M
+- incremental: T810XXU2DRH1
+- tags: release-keys
+- fingerprint: samsung/gts210wifixx/gts210wifi:7.0/NRD90M/T810XXU2DRH1:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: gts210wifixx-user-7.0-NRD90M-T810XXU2DRH1-release-keys
+- repo: samsung_gts210wifi_dump
